@@ -1,0 +1,8 @@
+body
+{
+  background: linear-gradient(skyblue, green) no-repeat;
+ margin: 10;
+ padding: 90;
+ min-height: 10vh;
+ width: 1000%;
+}
