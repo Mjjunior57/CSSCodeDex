@@ -1,0 +1,7 @@
+/* Select the <p> paragraph element and style it */
+p {
+    font-family: Arial, serif; 
+    font-size: 18px; 
+    font-weight: 500; 
+  
+}
