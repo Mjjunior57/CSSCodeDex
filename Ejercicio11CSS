@@ -1,0 +1,7 @@
+h1 {
+text-decoration: underline 2px;
+}
+
+p {
+ font: 16px bold Arial;
+}
