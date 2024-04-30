@@ -1,0 +1,12 @@
+#head {
+  width: 500px;
+  height: 500px;
+  background-color: #ff7f50; 
+}
+#body{
+  width: 400px;
+  height: 400px;
+  background-image: url('path_to_your_favorite_animal_image.jpg');
+  background-size: cover; 
+  background-repeat: no-repeat; 
+}
